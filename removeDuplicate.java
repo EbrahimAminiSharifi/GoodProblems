@@ -1,4 +1,5 @@
- public static int[] removeDuplicate(int[] array) {
+public class removeDuplicate {
+public static int[] removeDuplicate(int[] array) {
         int index = 0;
         int[] temp = new int[array.length];
         for (int i = 0; i < array.length; i++) {
@@ -15,3 +16,4 @@
     public static void main(String[] args) {
         System.out.println(deifrenceIsK(new int[]{1, 1, 1, 10, 5, 3, 4, 2}, 3));
     }
+}
