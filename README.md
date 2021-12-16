@@ -1,4 +1,5 @@
 # GoodProblems
 Some Problem for solving to avoid from dementia
 
-Remove Duplicate Element in Array using Temporary Array
+1- Remove Duplicate Element in Array using Temporary Array
+2- simple search in Array java
