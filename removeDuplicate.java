@@ -14,6 +14,6 @@ public static int[] removeDuplicate(int[] array) {
     }
     
     public static void main(String[] args) {
-        System.out.println(deifrenceIsK(new int[]{1, 1, 1, 10, 5, 3, 4, 2}, 3));
+        System.out.println(removeDuplicate(new int[]{1, 1, 1, 10, 5, 3, 4, 2}, 3));
     }
 }
